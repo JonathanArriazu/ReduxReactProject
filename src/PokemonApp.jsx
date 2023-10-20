@@ -16,6 +16,8 @@ export const PokemonApp = () => {
         <h1>Pokemon App</h1>
         <hr />
 
+        <span> Loadin: { !true ? 'True' : 'False' } </span>
+
         <ul>
             <li>Hola</li>
             <li>Hola</li>
